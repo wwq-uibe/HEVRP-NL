@@ -1,0 +1,12 @@
+Hi Professor,
+
+I have completed the initial draft of the response letter for our HEVRP-NL paper (please see the attached document). I kindly request your review and feedback.
+
+The two reviewers from TRC have raised concerns regarding the motivation and setting of our waiting function at charging station, questioning why the waiting cost is not included in the objective function and why using such a waiting function is valid. Apart from these points, there are no other challenging questions.
+
+I have provided appropriate responses to the aforementioned concerns.
+
+Thank you for your time and assistance.
+
+Best regards,
+Weiquan
